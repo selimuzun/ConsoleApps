@@ -9,6 +9,7 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World!");
 
             //kodlar 2
+            //kodlar 3
         }
     }
 }
