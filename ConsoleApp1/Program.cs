@@ -12,6 +12,7 @@ namespace ConsoleApp1
             //kodlar 3
             //kod4
             //kod 6
+            //selimuzun
         }
     }
 }
